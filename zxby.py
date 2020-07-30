@@ -83,5 +83,5 @@ def main(code):
 
 
 if __name__ == '__main__':
-    code = """print("你好")"""
+    code = """print("Hi")"""
     print(main(code))
